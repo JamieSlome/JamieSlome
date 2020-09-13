@@ -1,6 +1,3 @@
-![JamieSlome](https://pbs.twimg.com/profile_banners/1214892920475717632/1579246151/1500x500)
-
-
 ### Hi there, I'm Jamie 👋
 
 - 🔭 I’m currently working on securing the world's open source code at [418sec](https://418sec.com)
