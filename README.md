@@ -1,4 +1,4 @@
-![meme](meme.jpeg)
+![meme](https://github.com/JamieSlome/JamieSlome/blob/master/meme.jpeg)
 
 ### Hi there, I'm Jamie 👋
 
