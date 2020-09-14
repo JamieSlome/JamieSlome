@@ -1,3 +1,5 @@
+[JamieSlome](https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif)
+
 ### Hi there, I'm Jamie 👋
 
 - 🔭 I’m currently working on securing the world's open source code at **[418sec](https://418sec.com)**
