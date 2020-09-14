@@ -1,4 +1,4 @@
-[JamieSlome](https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif)
+![meme](meme.jpeg)
 
 ### Hi there, I'm Jamie 👋
 
