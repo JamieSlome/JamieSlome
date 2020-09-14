@@ -1,5 +1,3 @@
-![meme](https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif)
-
 ### Hi there, I'm Jamie 👋
 
 - 🔭 I’m securing the world's open source code at **[418sec](https://418sec.com)**
