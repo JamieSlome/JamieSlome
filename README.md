@@ -1,4 +1,4 @@
-![meme](https://github.com/JamieSlome/JamieSlome/blob/master/meme.jpeg)
+![meme](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
 ### Hi there, I'm Jamie 👋
 
