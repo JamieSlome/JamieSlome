@@ -1,6 +1,6 @@
 ### Hi there, I'm Jamie 👋
 
-- 🔭 I’m securing the world's open source code at **[418sec](https://418sec.com)**
+- 🔭 I’m securing the world's open source code at **[huntr.dev](https://huntr.dev)**
 - 🌱 I’m currently learning about open source security and how to bake a mean muffin 🧁
 - 👯 I’m looking to collaborate on the fixing and finding of vulnerabilities in open source packages
 - 💬 Ask me about open source, bug bounties, startups, entrepreneurship and A.I.
